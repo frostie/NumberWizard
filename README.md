@@ -7,7 +7,7 @@ A game created in Unity that guesses your number between 1 and 1000.
 - Create UI
 
 # A Closer Look
-https://github.com/pippom/NumberWizard/blob/master/Screenshots/PlayAgain_1.png
+![alt_text](https://github.com/pippom/NumberWizard/blob/master/Screenshots/PlayAgain_1.png)
 
 ## Considerations
 - Player experience
