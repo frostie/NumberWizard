@@ -5,6 +5,7 @@ A game created in Unity that guesses your number between 1 and 1000.
 
 ## Next Actions:
 - Create UI
+- Link load scenes together
 - Write scripts to create functionality
 
 ## A Closer Look
