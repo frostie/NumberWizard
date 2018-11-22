@@ -1,7 +1,7 @@
 # NumberWizard
 A game created in Unity that guesses your number between 1 and 1000. 
 
-*This project is part of a tutorial and is for experimental purposes only.*
+*This project is part of a tutorial and is for experimental purposes only. Once completed, it will not be updated further.*
 
 ## Next Actions:
 - Create UI
