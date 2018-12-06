@@ -20,7 +20,6 @@ public class NumberWizard : MonoBehaviour {
     void StartGame()
     {
         NextGuess();
-        max = max + 1;
     }
 
     public void OnPressHigher()
