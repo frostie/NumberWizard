@@ -19,7 +19,7 @@ public class NumberWizard : MonoBehaviour {
      
     void StartGame()
     {
-        guess = (max + min) / 2;
+        guess = Random.Range(1, 1000);
         guessText.text = guess.ToString();
         max = max + 1;
     }
