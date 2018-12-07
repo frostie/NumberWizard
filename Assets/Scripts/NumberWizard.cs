@@ -10,8 +10,7 @@ public class NumberWizard : MonoBehaviour {
     [SerializeField] TextMeshProUGUI guessText;
 
     int guess;
-
-    // Use this for initialization
+    
     void Start ()
     {
         StartGame();
