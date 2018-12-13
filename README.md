@@ -5,6 +5,7 @@ A game created in Unity that guesses your number between 1 and 1000.
 
 ## Next Actions:
 - Write game synopsis
+- Write user guide (how to play)
 
 ## A Closer Look
 ![alt_text](https://github.com/pippom/NumberWizard/blob/master/Screenshots/Core_1.png)
