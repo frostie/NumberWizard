@@ -7,10 +7,10 @@ Pick a number between 1 and 1000, and the Number Wizard will guess it - or at le
 - Write game synopsis
 
 ## User Guide
-- 1.0 Before starting the game, you must think of a number between 1 and 1000. 
-- 2.0 Once you've thought of your number, start the game, and the Number Wizard's first guess will be displayed on the screen.
-- 3.0 If his guess is incorrect, select "Higher" or "Lower" to guide him to his next guess.
-- 4.0 Once he guesses your number, select "That's it!"
+1.1 Before starting the game, you must think of a number between 1 and 1000. 
+1.2 Once you've thought of your number, start the game, and the Number Wizard's first guess will be displayed on the screen.
+1.3 If his guess is incorrect, select "Higher" or "Lower" to guide him to his next guess.
+1.4 Once he guesses your number, select "That's it!"
 
 ## A Closer Look
 ![alt_text](https://github.com/pippom/NumberWizard/blob/master/Screenshots/Core_1.png)
