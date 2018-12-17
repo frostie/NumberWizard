@@ -3,9 +3,6 @@ Pick a number between 1 and 1000, and the Number Wizard will guess it - or at le
 
 *This project is part of a tutorial and is for experimental/learning purposes only. It is now complete and will not be updated further.*
 
-## Next Actions:
-- Write game synopsis
-
 ## User Guide
     1. Before starting the game, you must think of a number between 1 and 1000. 
     2. Once you've thought of your number, start the game, and the Number Wizard's first guess will be displayed on the screen.
