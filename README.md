@@ -12,11 +12,5 @@ Pick a number between 1 and 1000, and the Number Wizard will guess it - or at le
 ## A Closer Look
 ![alt_text](https://github.com/pippom/NumberWizard/blob/master/Screenshots/Core_1.png)
 
-## Considerations
-- Player experience
-- Core mechanics
-- Theme
-- Core game loop
-
 ## Credits
 - Tutorial provided by Ben Tristem's and Rick Davidson's "Complete C# Unity Developer 2D: Learn to Code Making Games"
